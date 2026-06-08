@@ -226,7 +226,7 @@ Supabase → Authentication → Providers → Email
 
 ---
 
-## Próximas melhorias possíveis
+## Próximas melhorias
 
 - edição de clientes
 - edição de dívidas
