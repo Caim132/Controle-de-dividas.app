@@ -228,8 +228,6 @@ Supabase → Authentication → Providers → Email
 
 ## Próximas melhorias possíveis
 
-Algumas ideias para evoluir o projeto:
-
 - edição de clientes
 - edição de dívidas
 - busca por CPF
